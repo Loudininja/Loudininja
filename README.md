@@ -1,4 +1,4 @@
-## SALVE CRIA! Bão?? Sou o Mauricio Santos, mais conhecido como Ninja nas redes sociais. Sou Desenvolvedor na empresa DB Schenker Brasil, e nas horas vagas criador de conteúdo e Streamer.
+## Eae Bão?? Sou o Mauricio Santos. Sou Desenvolvedor na empresa DB Schenker Brasil, e nas horas vagas criador de conteúdo sobre música tradicional Gaúcha.
 <div align="center">
   <a href="https://github.com/Loudininja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
